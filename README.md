@@ -1,6 +1,6 @@
 # Pump-it-Up-Data-Mining-the-Water-Table
 ## Driven Data Competition Pump it Up: Data Mining the Water Table
-data link https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
+https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
 
 Work in progress will update !
 
